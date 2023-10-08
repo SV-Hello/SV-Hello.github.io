@@ -8,3 +8,8 @@ img {
 a:hover {
     color: hotpink;
 }
+
+#title {
+    color:blueviolet;
+    font-size: 40px;
+}
