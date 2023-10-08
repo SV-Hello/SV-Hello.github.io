@@ -1,6 +1,10 @@
-body {
-    background-color: aquamarine;
+img {
+    border: 2px solid #de2020;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150;
 }
-link {
-    color: red
+
+a:hover {
+    color: hotpink;
 }
