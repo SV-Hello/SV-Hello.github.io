@@ -13,3 +13,9 @@ a:hover {
     color:black;
     font-size: 40px;
 }
+
+.infomativeText {
+    color:darkgoldenrod;
+    font-size: 20px;
+    font-style: italic;
+}
