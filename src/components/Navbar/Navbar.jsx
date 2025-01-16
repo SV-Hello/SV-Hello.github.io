@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 import styles from "./Navbar.module.css";
 import {getImageUrl} from "../../utils";
-import menuIcon from '../../../assets/nav/menuIcon.png';
+import menuIcon from '../../../assets/nav/menuIcon2.png';
 import closeIcon from '../../../assets/nav/closeIcon.png';
 
 export const Navbar = () => {
