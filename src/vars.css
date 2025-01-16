@@ -9,15 +9,3 @@
     /*Fonts*/
     --font-robot: "Roboto";
 }
-
-html {
-    overflow: hidden;
-    height: 100%;
-}
-  
-body {
-    overflow: auto;
-    height: 100%;
-    overscroll-behavior: none;
-    overflow-x: hidden;
-}

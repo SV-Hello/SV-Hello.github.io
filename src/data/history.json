@@ -1,29 +1,18 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "IT Intern",
+      "organisation": "McDermott Int.",
+      "startDate": "May, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Developed AI functionality for analytics dashboard", "Managed critical invoice datasets"],
+      "imageSrc": "/assets/history/mcdermott.jpg"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "role": "Engineering Intern",
+      "organisation": "UT Austin Facilities Services",
+      "startDate": "Aug, 2022",
+      "endDate": "Dec, 2023",
+      "experiences": ["Led team of fellow intern technicians", "Developed building automation software"],
+      "imageSrc": "/assets/history/longhorn.png"
     }
   ]
